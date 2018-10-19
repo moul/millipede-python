@@ -1,6 +1,10 @@
 millipede |build-status|
 ========================
 
+.. image:: https://badges.production.guardrails.io/moul/millipede-python.svg
+   :alt: GuardRails badge
+   :target: https://www.guardrails.io
+
 Print a beautifull millipede to send to your friends !!!
 
 Basic usage::
